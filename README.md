@@ -9,6 +9,8 @@ DIY bluetooth jammer with off the shelf parts and open source software.
 
 ![Jammer Bench Test](images/jammer_bench_test_glitch_edit.jpg)
 
+*Image: Benchtest using a large battery source and a linear voltage regulator tuned to ~5.7 volts to drive the power amplifer. Power amplifier ground is additionally tied to the GPIO ground pin.*
+
 ## Optional Components
 - 2.4Ghz ower amplifier 
     - SMA adapters as needed 
