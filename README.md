@@ -12,7 +12,7 @@ DIY bluetooth jammer with off the shelf parts and open source software.
 *Image: Benchtest using a large battery source and a linear voltage regulator tuned to ~5.7 volts to drive the power amplifer. Power amplifier ground is additionally tied to the GPIO ground pin.*
 
 ## Optional Components
-- 2.4Ghz ower amplifier 
+- 2.4Ghz power amplifier 
     - SMA adapters as needed 
     - Power supply for power amplifier
 - Directional Yagi or other antenna
@@ -25,6 +25,9 @@ DIY bluetooth jammer with off the shelf parts and open source software.
 
 ## Performance
 Performance highly depends on the specific hardware chosen. Some antennas are well paired with your tranceiver or power amplifier, others are not. I have personally found the best performance using an omnidirectional dipole antenna, better than a small Yagi antenna. With a power amplifier driven at 5.5V I have seen complete audio jamming of small bluetooth speakers at 30 feet. 
+
+## Notes
+I'm sure many firmware or other NRF24 projects are capable of driving this device, RogueMaster with FZ-nRF24 plugin just happens to be what I used and found to work.
 
 ## Disclaimer
 Jamming can be illegal, ensure you have permission to jam in your area. I am not responsible for any damages caused by jamming. Use at your own risk. This is intended for educational purposes.
