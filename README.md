@@ -5,7 +5,7 @@ DIY bluetooth jammer with off the shelf parts and open source software.
 - Flipper Zero 
 - NRF24 2.4Ghz transceiver for Flipper Zero
     - Must fit Flipper Zero GPIO pin out
-    - Can be be purchased to fit the FZ pinout, or can be soldered to FZ board, or use jumper wires etc. 
+    - Can be be purchased to fit the FZ pinout, or can be soldered to compatible GPIO FZ board, or use jumper wires, etc. 
 
 ![Jammer Bench Test](images/jammer_bench_test_glitch_edit.jpg)
 
